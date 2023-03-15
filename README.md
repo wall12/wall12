@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **wall12/wall12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About me 💬
+### About me 💬
 Desarrollador Full Stack Mern y Tecnico Superior en Programación de Computadoras, con conocimientos  como React,Express, Node, Python, Base de datos Mysql, Postgrest y Mongodb tambien conocimientos en control de versiones con Git y Github.En el transcurso de mi carrera y tambien formando parte del un bootcamp intensivo de programación, he desarrollado buenas habilidades tales como, la resolucion de problemas, capacidad de orientacion al cliente y muy buena adaptabilidad. Encuentro interesante el desempeñarme y ganar experiencia en el area IT poniendo en practica mis capacidades y conocimientos adquiridos en la Carrera y el bootcamp, especialmente en el area de Full Stack
